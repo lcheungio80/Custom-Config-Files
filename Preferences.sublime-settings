@@ -1,4 +1,5 @@
 {
+    "color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
     "font_size": 14,
     "open_files_in_new_window": false,
     "rulers":
@@ -6,5 +7,6 @@
         120
     ],
     "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": false
 }
