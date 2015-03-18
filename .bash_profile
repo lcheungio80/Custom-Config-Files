@@ -7,5 +7,5 @@ horizontal_rule="---------------------------------------------------------------
 PS1="${horizontal_rule}${PS1}"
 
 # Aliases
+alias jshint="jshint --exclude node_modules"
 alias ls="ls -l"
-
